@@ -31,4 +31,8 @@ Since my save file is located at the `Pokémon Center` in `Viridian City`, the t
 
 *The original game name `Pokémon FireRed` was produced by Game Freak.
 
+*The copyright for the patch files belongs to "liberty twin", "ikarus," and several other users.
+
+*The copyright of base rom belong to ''Game Freak''
+
 *Author of this ROM: me (nkgd012)
