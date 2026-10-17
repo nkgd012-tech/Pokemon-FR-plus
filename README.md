@@ -29,6 +29,6 @@ Since my save file is located at the `Pokémon Center` in `Viridian City`, the t
 
 "Liberty Twins" and "Ikarus" created these graphics-enhancing patches.
 
-*The original game, titled `Pokémon FireRed` was produced by Game Freak.
+*The original game name `Pokémon FireRed` was produced by Game Freak.
 
 *Author of this ROM: me (nkgd012)
