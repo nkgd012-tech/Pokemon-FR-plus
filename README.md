@@ -23,10 +23,12 @@ When loading a save file, the tiles become jumbled, which is visually confusing.
 
 But don't worry; you can fix them yourself by entering a house and then coming back out—everything will return to how it was.
 
+Since my save file is located at the `Pokémon Center` in `Viridian City`, the tiles around that area appear glitched; however, this is not an issue—simply enter the building above the `Pokémon Center` or the `Poké Mart`, then step back outside, and everything will be perfectly fine.
+
 *sincere thanks:
 
 "Liberty Twins" and "Ikarus" created these graphics-enhancing patches.
 
-*The original game, titled "Pokémon FireRed," was produced by Game Freak.
+*The original game, titled `Pokémon FireRed` was produced by Game Freak.
 
 *Author of this ROM: me (nkgd012)
