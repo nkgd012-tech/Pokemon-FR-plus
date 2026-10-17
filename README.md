@@ -4,7 +4,7 @@ This is just a GBA ROM I made for myself for personal use(upgrading the gaming e
 
 *what’s in this patch?
 
-+support 2 language: `Vietnamese`(v1.2-patched) and `English`(v1.1-pre-patched)
++support 2 language: `Vietnamese`(v1.2 pre-patched) and `English`(v1.1 unpatched)
 
 +`DS` graphics
 
