@@ -1,4 +1,5 @@
 # Pokemon-FR-plus
+This is just a GBA ROM I made for myself for personal use(upgrading the gaming experience)
 * It’s simply the original FireRed ROM, but with upgraded graphics to make it more visually pleasing for the user.
 
 *what’s in this patch?
