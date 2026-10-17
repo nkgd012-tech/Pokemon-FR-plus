@@ -5,7 +5,7 @@
 
 +graphics in the DS style
 
-+The HP bar and text box have been updated to match HGSS.
++The HP bar and text box have been updated to resemble those in HGSS.
 
 +New intro, main menu has been changed
 
