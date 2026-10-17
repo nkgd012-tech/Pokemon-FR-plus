@@ -13,6 +13,10 @@
 
 +The Pokémon party screen has been adjusted to resemble the one in HGSS.
 
++D/P/PT-style font and New start menu.
+
++custom battlegrounds and new status-type icon.
+
 #known issue:
 
 When loading a save file, the tiles become jumbled, which is visually confusing.
